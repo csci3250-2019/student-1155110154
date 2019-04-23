@@ -38,4 +38,4 @@ TRY MY BEST!!!
 Hope that all of you have a nice day!:sunglasses:
 
 # Finally
-(https://github.com/csci3250-2019/student-1155110154/blob/master/screenshot_cut.PNG)
+![](https://github.com/csci3250-2019/student-1155110154/blob/master/screenshot_cut.PNG)
