@@ -38,4 +38,4 @@ TRY MY BEST!!!
 Hope that all of you have a nice day!:sunglasses:
 
 # Finally
-![Finally] (https://github.com/Users/user/raw/master/Desktop\cuhk\Year 2\2nd sem\CSCI3250 CSCI3251/***.png)
+![Finally] (https://github.com/ Users/user/raw/master/Desktop/cuhk/Year 2/2nd sem/CSCI3250 CSCI3251/screenshot_cut.png)
